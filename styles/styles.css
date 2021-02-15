@@ -1,0 +1,22 @@
+.booksContainer {
+    width: 50%;
+    min-width: 250px;
+
+    margin: auto;
+}
+
+.bookItem {
+    border-radius: 10px;
+    border: solid 2px #7ab37b;
+
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.bookHeader {
+    font-size: 20px;
+}
+
+.bookDescription {
+    font-size: 15px;
+}
